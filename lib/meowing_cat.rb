@@ -4,7 +4,7 @@ class Cat
   
   attr_accessor :name, :meow
   
-  def 
+  def initialization 
 
 
 end # end of Cat class
