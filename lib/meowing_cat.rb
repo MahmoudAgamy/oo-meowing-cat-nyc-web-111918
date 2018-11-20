@@ -2,8 +2,7 @@
 
 class Cat 
   
-  attr_accessor :name
-  #attr_reader :meow
+  attr_accessor :name :meow
   
   def initialize
     @name = name
